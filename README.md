@@ -1,0 +1,2 @@
+# Cancela eletrônica com arduino
+Este projeto é bem interessante e simples para quem quer trabalhar na área de automação, com um **sensor ultrassônico**  é possível programar a abertura e o fechamento de uma especie de cancela (onde utilizamos um **servo motor** para tal função). Quando o carro se aproxima, a cancela é aberta, permitindo assim que o automóvel passe. Gostou? quer ver a demostração desse projeto? então da uma olhada no nosso blog: [ardu.ino.sketch](https://instagram.com/ardu.ino.sketch?utm_source=ig_profile_share&igshid=q0plxzc5k6m4)
